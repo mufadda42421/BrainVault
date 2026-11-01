@@ -1,0 +1,6 @@
+{
+  "name": "BrainVault",
+  "description": "AI-Powered Second Brain PWA. Your Mind. Your Knowledge. Your Universe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
